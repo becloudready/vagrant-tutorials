@@ -7,14 +7,18 @@ Each example has been categorized in directory fashion and it fully working exam
 
 ## ansible-example instruction
 
-1. Make sure you have installed latest version of Virtualbox and Vagrant
-2. git clone https://github.com/becloudready/vagrant.git
-3. cd vagrant/ansible-example
-4. ansible up --provision
+Make sure you have installed latest version of Virtualbox and Vagrant
+```
+git clone https://github.com/becloudready/vagrant.git
+cd vagrant/ansible-example
+ansible up --provision
+```
 
 ## multiple-machine
 
-1. Make sure you have installed latest version of Virtualbox and Vagrant
-2. git clone https://github.com/becloudready/vagrant.git
-3. cd vagrant/multiple-machine
-4. ansible up --provision
+Make sure you have installed latest version of Virtualbox and Vagrant
+```
+git clone https://github.com/becloudready/vagrant.git
+cd vagrant/multiple-machine
+ansible up --provision
+```
