@@ -7,6 +7,7 @@ Download and install vagrant on your PC/Mac, open command prompt
 
 ```
 mkdir helloworld
+cd helloworld
 vagrant init centos/7
 vagrant up
 vagrant ssh
