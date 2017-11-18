@@ -1,6 +1,23 @@
 # vagrant
 Vagrant examples 
 
+# Hello World Vagrant
+
+Download and install vagrant on your PC/Mac, open command prompt
+
+```
+mkdir helloworld
+vagrant init centos/7
+vagrant up
+vagrant ssh
+```
+
+After the last command you will be inside the newly created vagrant linux box. If you are inside Proxy please make sure to export the proxy variable
+
+```
+export http_proxy=<myproxy:port>
+```
+
 # Repo Layout
 
 Each example has been categorized in directory fashion and it fully working example.These examples are meant to be idiot proof, if they are not, then call us idiot and raise issue we will fix it.
