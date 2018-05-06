@@ -57,3 +57,4 @@ In my machine it shows like, I select 1 [ WiFi ]
     node03: Which interface should the network bridge to? 1
 ==> node03: Preparing network interfaces based on configuration...
 ```
+Added sample
